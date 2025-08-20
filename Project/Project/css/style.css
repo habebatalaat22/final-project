@@ -602,7 +602,7 @@ footer {
 
   .navbar{
 
-    margin-top: 20px;
+    margin-top: 35px;
   }
 
   .top-bar .row>div {
@@ -721,4 +721,5 @@ footer {
     width: 100%;
     margin-top: 20px;
   }
+
 }
